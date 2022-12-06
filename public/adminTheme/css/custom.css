@@ -1,0 +1,11 @@
+[class*=sidebar-dark-] .nav-sidebar>.nav-item.menu-open>.nav-link{
+	background: transparent;
+}
+.sidebar-dark-primary .nav-sidebar>.nav-item>.nav-link.active{
+	background-color: #007bff;
+}
+
+.subcategories-create {
+
+	
+}
